@@ -1,0 +1,23 @@
+.user-sidebar {
+  width: 100vw; height: calc(100vh - 65px);
+  position: absolute;
+  top: 0; left: 0;
+}
+
+.sb-tab {
+  width: 60px; height: 75px;
+  position: fixed;
+  top: 0; right: 0;
+  border-top-left-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+  display:flex;
+  flex-flow: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.sb-tab p {
+  width: 100%; 
+  font-size: .5rem;
+  text-align: center;
+}

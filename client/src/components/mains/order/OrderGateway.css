@@ -1,0 +1,11 @@
+.gateway-cont {
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 7px;
+  text-align: center;
+  font-size: 1.4em;
+}
+
+.gateway-cont p {
+  padding: 7px 0;
+}

@@ -1,0 +1,12 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url('assets/imgs/pizza_site_bg_small.jpg')
+}
+
+@media screen and (min-width: 800px) {
+  .App {
+    background-image: url('assets/imgs/pizza_site_bg_large.jpg');
+  }
+}

@@ -1,0 +1,8 @@
+=> App.js:
+  matchMedia:
+    phone in portrait:
+      (max-width: 420px) and (orientation: portrait)
+    phone in landscape:
+      (max-height: 420px) and (orientation: landscape)
+
+breakpoint @ (min-width: 830px);

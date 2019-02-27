@@ -1,0 +1,10 @@
+.slider-frame {
+  overflow: hidden;
+  transition: opacity .3s ease-out 0s;
+}
+
+/* .slide {
+  width: 100%; height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
